@@ -6,9 +6,15 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.6.0",
+    "canner-slate-editor": "^1.5.4",
+    "is-hotkey": "^0.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "slate": "^0.59.0",
+    "slate-history": "^0.59.0",
+    "slate-react": "^0.59.0"
   },
   "scripts": {
     "start": "react-scripts start",

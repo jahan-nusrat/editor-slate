@@ -1,9 +1,12 @@
 import React from 'react'
 
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+import Editor from './components/Editor'
+
 const App = () => {
   return (
-    <div>
-      <h3>Hello</h3>
+    <div className="container">
+      <Editor />
     </div>
   )
 }
